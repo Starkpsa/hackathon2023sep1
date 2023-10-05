@@ -51,3 +51,11 @@ VALUES
             JSON_OBJECT('name', 'Location 20', 'date', '2024-04-10', 'time', '01:30 PM', 'capacity', 300)
         )
     );  
+<dependencies>
+    <!-- ...other dependencies... -->
+    <dependency>
+        <groupId>com.h2database</groupId>
+        <artifactId>h2</artifactId>
+        <scope>runtime</scope>
+    </dependency>
+</dependencies>
