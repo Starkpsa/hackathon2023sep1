@@ -72,3 +72,25 @@ Your technical skills are impressive, and your methodical approach to problem-so
 I prefer collaborating with you because of your positive attitude and willingness to assist others. Your support and knowledge-sharing create a collaborative environment that benefits the entire team.
 
 Wishing you all the best in your future endeavors! I look forward to seeing your continued growth and the contributions you will make under A.S’s guidance.
+
+
+Throughout the year, I’ve had the pleasure of sitting alongside Pallavi, who consistently brings a positive energy to our workspace. While we don’t work directly on projects together, our conversations about work and life have enriched my experience at the company.
+
+Pallavi's technical knowledge and attention to detail are impressive. She approaches her work with a thoughtful mindset, which often inspires those around her. Her ability to communicate effectively fosters a supportive atmosphere in our shared space.
+
+I truly appreciate our camaraderie and the way Pallavi takes the time to check in and share insights. It’s comforting to have someone who cares and creates a sense of community, making our workplace more enjoyable.
+
+Wishing you all the best in your future endeavors! I look forward to our continued conversations and shared lunches.
+
+Shreya (Teammate)
+Feedback:
+Over the past year, I’ve enjoyed the opportunity to sit alongside Shreya, who has become a wonderful presence in my daily routine. Although we don’t work directly together, our conversations about our respective projects and life in general have been a highlight of my experience here.
+
+Shreya’s technical skills and problem-solving abilities are commendable. Her thoughtful insights and willingness to help others contribute to a collaborative environment, even beyond our direct interactions.
+
+I appreciate the kindness and support Shreya shows, always making time to connect and share experiences. It’s refreshing to have someone who genuinely cares about team dynamics and fosters a sense of belonging.
+
+Wishing you continued success in your endeavors! I look forward to more shared lunches and discussions in the future.
+
+
+
