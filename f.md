@@ -94,3 +94,110 @@ Wishing you continued success in your endeavors! I look forward to more shared l
 
 I genuinely appreciate your mentorship and support. Your approachable nature and willingness to share knowledge create a positive environment that fosters growth and collaboration. You inspire confidence in the team, making it easy to approach you with questions and ideas.
 
+Here’s the feedback for all individuals, including MJ, rewritten in the requested format:
+
+### A.S (SVP)
+**Feedback:**  
+Throughout the year, A.S has been a pivotal leader on the Spine side for WINS, guiding the team through various challenges and ensuring we stayed on track with our goals. Working under your leadership has provided me with invaluable insights into effective project management and strategic problem-solving.
+
+Your technical expertise is remarkable, particularly in your ownership of the Spine function. Your ability to break down complex issues and provide clear, actionable solutions has greatly benefited our team. Your commitment to excellence sets a high standard for all of us.
+
+I prefer collaborating with you because of your approachable nature and willingness to mentor others. Your insights and guidance not only enhance our projects but also foster an environment where learning and collaboration thrive.
+
+Wishing you continued success in your future endeavors! Your leadership has a lasting impact, and I look forward to seeing the further advancements you will drive.
+
+---
+
+### M (SDE3)
+**Feedback:**  
+This past year, M has been a key contributor to our team, particularly through your leadership in the NRT OTC initiatives and the successful Polars migration. Your ability to navigate complex challenges has been crucial in driving our projects to completion.
+
+Your technical skills are exceptional, and your deep understanding of our systems allows you to provide valuable insights that guide our work. Your confidence in addressing challenges inspires those around you and promotes a culture of innovation.
+
+I enjoy working with you because of your collaborative spirit and constructive feedback. You create an environment where ideas can flourish, and your support has been instrumental in my growth.
+
+Best of luck in your future projects! I have no doubt that your skills and leadership will continue to shine and drive success for our team.
+
+---
+
+### A (SDE2)
+**Feedback:**  
+Over the past year, A has played a significant role in onboarding WINS and has been a key resource for our team. Your strong problem-solving skills, especially in handling FX forwards, have greatly contributed to our success and efficiency.
+
+Your technical knowledge is impressive, and your quick turnaround times demonstrate your dedication to delivering quality results. You approach challenges with a positive attitude, making it easier for the team to collaborate effectively.
+
+I appreciate working with you because of your supportive nature and willingness to help others. Your insights and expertise make a meaningful difference in our projects.
+
+Wishing you all the best in your future endeavors! I look forward to seeing your continued growth and contributions.
+
+---
+
+### R (SDE2)
+**Feedback:**  
+Throughout the year, R has made significant contributions to our projects, particularly in supporting the Spine function and Taxonomy 2*2 under A.S’s leadership. Your diligence during production releases has ensured smooth deployments, reflecting your strong commitment to quality.
+
+Your technical skills are impressive, and your methodical approach to problem-solving is commendable. You consistently demonstrate a solid understanding of the technologies we work with, which significantly enhances the quality of our deliverables.
+
+I prefer collaborating with you because of your positive attitude and willingness to assist others. Your support and knowledge-sharing create a collaborative environment that benefits the entire team.
+
+Wishing you all the best in your future endeavors! I look forward to seeing your continued growth and the contributions you will make under A.S’s guidance.
+
+---
+
+### S (DSE1)
+**Feedback:**  
+Over the past year, S has been an invaluable member of our team, particularly in supporting the WINS project. Your technical knowledge and problem-solving abilities have greatly contributed to our success, especially during critical testing phases.
+
+Your proactive approach in fixing upstream job issues and ensuring that reference jobs are run smoothly during testing times demonstrates your dedication to the team’s goals. Your quick turnaround time in addressing challenges is truly commendable.
+
+I appreciate your friendly and helpful nature, which fosters a collaborative atmosphere. Working alongside you has made tackling complex issues much more manageable.
+
+Wishing you all the best in your future endeavors! I look forward to continuing our collaboration and seeing your growth in the coming projects.
+
+---
+
+### P (QA)
+**Feedback:**  
+Throughout the year, P has played a crucial role in ensuring the quality of our work on the WINS project. Your meticulous approach to quality assurance has been instrumental in identifying issues early and ensuring smooth production releases.
+
+Your technical skills in QA are impressive, and your attention to detail significantly enhances the overall quality of our deliverables. Your thorough testing processes and feedback have helped the team improve our workflows.
+
+I appreciate your commitment to excellence and your supportive nature. Your ability to communicate effectively makes collaboration enjoyable and productive.
+
+Wishing you all the best in your future endeavors! I look forward to seeing the continued impact of your work on our projects.
+
+---
+
+### MJ (SVP)
+**Feedback:**  
+Over the past year, MJ has been an essential leader in our WINS project, contributing significantly to solving the time zone problem. Your strategic insights and leadership have guided us through complex challenges, ensuring the project’s success.
+
+Your extensive technical knowledge and experience are invaluable. You have a unique ability to analyze problems from multiple angles, which leads to effective and innovative solutions. Your commitment to excellence inspires those around you to raise their own standards.
+
+I appreciate your approachable nature and willingness to share your expertise. Working with you has been a rewarding experience, and I value the guidance you've provided throughout our projects.
+
+Wishing you continued success in your future endeavors! I look forward to seeing the positive impact you will continue to have on our team.
+
+---
+
+### Pallavi (Teammate)
+**Feedback:**  
+Throughout the year, I’ve had the pleasure of sitting alongside Pallavi, who consistently brings a positive energy to our workspace. While we don’t work directly on projects together, our conversations about work and life have enriched my experience at the company.
+
+Pallavi's technical knowledge and attention to detail are impressive. She approaches her work with a thoughtful mindset, which often inspires those around her. Her ability to communicate effectively fosters a supportive atmosphere in our shared space.
+
+I truly appreciate our camaraderie and the way Pallavi takes the time to check in and share insights. It’s comforting to have someone who cares and creates a sense of community, making our workplace more enjoyable.
+
+Wishing you all the best in your future endeavors! I look forward to our continued conversations and shared lunches.
+
+---
+
+### Shreya (Teammate)
+**Feedback:**  
+Over the past year, sitting alongside Shreya has been a rewarding experience. Although we don’t collaborate on the same projects, our regular conversations about our work and personal lives have fostered a supportive environment that I truly appreciate.
+
+Shreya’s analytical skills and innovative thinking are commendable. She often brings fresh perspectives to our discussions, encouraging deeper insights into challenges we face. Her enthusiasm for her work is infectious and motivates those around her.
+
+I value the friendly rapport we’ve developed. Shreya’s genuine interest in my well-being and her willingness to share her experiences create a welcoming atmosphere that makes our shared breaks enjoyable and enriching.
+
+Wishing you all the best in your future endeavors! I look forward to many more engaging conversations and shared moments together.
