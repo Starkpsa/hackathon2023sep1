@@ -92,5 +92,5 @@ I appreciate the kindness and support Shreya shows, always making time to connec
 
 Wishing you continued success in your endeavors! I look forward to more shared lunches and discussions in the future.
 
-
+I genuinely appreciate your mentorship and support. Your approachable nature and willingness to share knowledge create a positive environment that fosters growth and collaboration. You inspire confidence in the team, making it easy to approach you with questions and ideas.
 
