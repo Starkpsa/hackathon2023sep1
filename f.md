@@ -201,3 +201,10 @@ Shreya’s analytical skills and innovative thinking are commendable. She often 
 I value the friendly rapport we’ve developed. Shreya’s genuine interest in my well-being and her willingness to share her experiences create a welcoming atmosphere that makes our shared breaks enjoyable and enriching.
 
 Wishing you all the best in your future endeavors! I look forward to many more engaging conversations and shared moments together.
+
+
+R consistently delivers appropriate solutions to address client needs through a methodical and analytical approach. She starts by thoroughly understanding the requirements and expectations of the clients, ensuring that she has a clear grasp of their challenges and objectives.
+
+R begins by conducting thorough risk assessments to identify potential vulnerabilities and threats within processes. She evaluates both internal and external factors that could impact operations, ensuring that all aspects of the environment are considered.
+
+R practices active listening during team meetings and one-on-one interactions. She encourages her colleagues to express their thoughts and concerns, demonstrating that their input is valued. This practice not only strengthens relationships but also leads to better decision-making, as diverse perspectives are considered
